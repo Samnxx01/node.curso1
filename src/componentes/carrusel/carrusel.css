@@ -1,0 +1,14 @@
+.carousel {
+    animation: slideIn 2s ease; /* Aplica la animación de entrada */
+    width: 100%; /* Ajusta el ancho del carrusel al 100% de la página */
+  }
+  
+  .carousel-item img {
+    width: auto; /* Ajusta el ancho de las imágenes al 100% del carrusel */
+    height: 800px; /* Ajusta la altura de las imágenes de manera proporcional */
+  }
+  
+  .carousel-inner {
+    box-shadow: 10px 10px 30px rgb(12, 23, 59); /* Agrega sombreado al contorno interior del carrusel */
+  }
+  
